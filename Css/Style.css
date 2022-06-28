@@ -1,0 +1,187 @@
+*{    margin: 0%;
+      padding: 0%;
+      box-sizing: border-box;}
+
+body{ background:whitesmoke}
+
+.Primeiro{
+     
+      height: 450px;
+      background-image: url(../assets/Fundo\ 1.jpg);}
+
+.cabeca{
+      position: absolute;
+      top: 20px; 
+      left: 220px;     
+      list-style: none;    
+      gap: 160px;
+      display: flex;}
+
+.cabeca a{ 
+      text-decoration: none;
+      font-size: 20px;
+      color: white;
+      font-family: 'oswald';}
+
+.botao{
+      align-items: center;
+      background-color:  rgb(3, 201, 250);
+      padding: 6px 24px;
+      border-radius: 20px;}
+  
+h1{   
+      margin: 140px 64px 2px 220px;
+      color: rgb(3, 201, 250);
+      font-weight: 700;
+      font-family: 'oswald', serif;
+      font size: 32px;}
+
+p{  
+      font-size: 20px;
+      text-align: left;
+      margin: 2px 64px 18px 220px;
+      font-family: 'oswald', serif;
+      color: white;}
+
+.inicio{
+      list-style: none;
+      display: flex;
+      justify-content: space-between;}
+
+.social {
+      list-style: none;
+      gap: 10px;
+      display:flex;
+      position: absolute;
+      top: 378px;
+      left: 220px;}
+
+.eu{ 
+      margin: 120px 220px 47px 64px;
+      border-radius: 50px;}
+
+h2::before{
+      content:url(../assets/Line\ 5.svg);
+      position: absolute;
+      top: -28px;
+}
+
+h2{   top: 28px;
+      font-weight: 700;
+      position: relative;
+      margin-left: 220px;
+      margin-bottom: 32px;
+      color: white;
+      font-family: 'oswald', serif;
+      font size: 32px;}
+
+span{
+      font-size: 20px;
+      color: white;
+      font-family: 'oswald';
+      margin-left: 220px;
+}
+
+.segundo{
+      height: 450px;
+      background-image: url(../assets/Fundo\ 2.png);}
+
+h3{   top: 32px;
+      position: relative;
+      margin-bottom: 68px;
+      align-items: center ;
+      color: aqua;
+       font-family: 'oswald', serif;
+      font-size: 64px;
+      text-align: center;}
+
+      a:hover{
+            color: #c72038;}
+
+
+
+.images{
+      display: flex;
+      margin-left: 260px;
+      gap: 38px;
+      list-style: none;}
+
+.images .setas{ 
+      margin-top: 200px;
+      margin-left: 2px;}
+
+.terceiro{ background-image: url(../assets/fundo\ 3.png);
+            height: 640px;}
+
+.quarto{ 
+      margin-bottom: 84px;
+      height: 480px;
+      background-image: url(../assets/fundo\ 4.png);
+      margin-top: 84px ;}
+
+.mensagens{ 
+      font-size: 25px;
+      font-family: 'oswald';
+      gap: 64px;
+      display: flex;
+      flex-direction: column;
+      list-style: none;}
+
+.email{ 
+      align-items: center;
+      top: 32px;
+      position: relative;
+      margin-left: 500px;
+      text-decoration: none;
+      background-color: rgb(17, 243, 194);
+      color:black;
+      padding: 8px 300px 8px 5px;
+      border-radius: 50px;}
+
+.caixa{ 
+      margin-left: 500px;
+      text-decoration: none;
+      background-color: rgb(17, 243, 194);
+      color: black;
+      padding: 5px 160px 220px 5px;
+      border-radius: 16px;}
+
+      footer{
+            align-items: center ;
+            background-color: #000000;
+            padding: 42px 0;a}
+        
+        footer h6{
+            text-align: center;
+            font-family: "oswald";
+            font-size: 20px;
+            font-weight: 700;
+           
+            
+            font-size: 20px;
+            color: white;}
+        
+            footer div{
+                max-width: 1110px;
+                margin: 0 auto;
+                display: flex;
+                justify-content: space-between;
+                }
+
+
+
+
+
+
+     
+      
+     
+
+
+
+
+
+      
+
+     
+     
